@@ -46,13 +46,13 @@ int main()
     
     tetromino[5].append(L"....");
     tetromino[5].append(L".XX.");
-    tetromino[5].append(L".XX.");
-    tetromino[5].append(L"....");
+    tetromino[5].append(L"..X.");
+    tetromino[5].append(L"..X.");
 
     tetromino[6].append(L"....");
     tetromino[6].append(L".XX.");
-    tetromino[6].append(L".XX.");
-    tetromino[6].append(L"....");
+    tetromino[6].append(L".X..");
+    tetromino[6].append(L".X..");
 
 
 
